@@ -43,7 +43,7 @@ Se quiser trocar uma ideia, é só chamar nas redes lá embaixo. 💜
 <div align="center">
 
 <a href="https://github.com/IsabellaCarvalh0/ForWomen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabellaCarvalh0&repo=ForWomen&theme=transparent&bg_color=0D0D0D&title_color=C084FC&text_color=E9D5ff&icon_color=A855F7&border_color=3B0764&border_radius=12" alt="ForWomen"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabellaCarvalh0&repo=ForWomen&theme=transparent&bg_color=0D0D0D&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=3B0764&border_radius=12" alt="ForWomen"/>
 </a>
 
 </div>
@@ -60,26 +60,6 @@ Se quiser trocar uma ideia, é só chamar nas redes lá embaixo. 💜
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=IsabellaCarvalh0&background=0D0D0D&stroke=3B0764&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&border=3B0764&hide_border=false&border_radius=12" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-## ✦ atividade
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IsabellaCarvalh0/IsabellaCarvalh0/main/metrics.isocalendar.svg" alt="Contribuições" width="100%"/>
-
-</div>
-
-<br/>
-
-## ✦ conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IsabellaCarvalh0&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies"/>
 
 </div>
 
