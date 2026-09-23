@@ -69,7 +69,7 @@ Se quiser trocar uma ideia, é só chamar nas redes lá embaixo. 💜
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabellaCarvalh0&bg_color=0D0D0D&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=7C3AED&hide_border=true&radius=12" alt="Activity Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/IsabellaCarvalh0/IsabellaCarvalh0/main/metrics.isocalendar.svg" alt="Contribuições" width="100%"/>
 
 </div>
 
