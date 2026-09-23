@@ -22,14 +22,14 @@ nome:     Isabella Carvalho de Melo
 formacao: Bacharelado em Sistemas de Informação (IFMG Sabará)
 tecnico:  Técnico em Tecnologia da Informação
 stack:    [Java, Python, HTML, CSS, JavaScript, SQL, Git]
-foco:     [Desenvolvimento de Software, Automação, IA aplicada]
+foco:     [Desenvolvimento de Software, segurança digital, IA aplicada]
 ```
 
 Aqui ficam meus projetos, estudos e experimentos em código.
 Se quiser trocar uma ideia, é só chamar nas redes lá embaixo. 💜
 
 > [!NOTE]
-> Buscando estágio em desenvolvimento de software, com interesse em Java, automação e IA aplicada.
+> Buscando estágio em desenvolvimento de software, com interesse em Java, segurança digital e IA aplicada.
 
 <br/>
 
@@ -79,9 +79,10 @@ timeline
 <summary><b>Estudando e explorando</b></summary>
 <br/>
 
-- Spring Boot e Angular
-- Automação de processos
+- SQL
+- Arquitetura de computadores
 - IA generativa aplicada ao desenvolvimento
+- Engenharia de Software
 
 </details>
 
