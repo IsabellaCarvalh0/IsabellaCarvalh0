@@ -88,28 +88,6 @@ timeline
 
 <br/>
 
-## ✦ projetos
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/IsabellaCarvalh0/ForWomen">
-        <h3>💜 ForWomen</h3>
-      </a>
-      <a href="https://github.com/IsabellaCarvalh0/ForWomen"><img src="https://img.shields.io/github/languages/top/IsabellaCarvalh0/ForWomen?style=flat-square&labelColor=0D0D0D&color=A855F7" alt="Linguagem principal"/></a>
-      <a href="https://github.com/IsabellaCarvalh0/ForWomen/stargazers"><img src="https://img.shields.io/github/stars/IsabellaCarvalh0/ForWomen?style=flat-square&labelColor=0D0D0D&color=A855F7" alt="Estrelas"/></a>
-      <a href="https://github.com/IsabellaCarvalh0/ForWomen/forks"><img src="https://img.shields.io/github/forks/IsabellaCarvalh0/ForWomen?style=flat-square&labelColor=0D0D0D&color=A855F7" alt="Forks"/></a>
-      <a href="https://github.com/IsabellaCarvalh0/ForWomen/commits"><img src="https://img.shields.io/github/last-commit/IsabellaCarvalh0/ForWomen?style=flat-square&labelColor=0D0D0D&color=A855F7" alt="Último commit"/></a>
-      <br/><br/>
-      <a href="https://github.com/IsabellaCarvalh0/ForWomen"><img src="https://img.shields.io/badge/ver%20projeto-0D0D0D?style=for-the-badge&logo=github&logoColor=C084FC" alt="Ver projeto"/></a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
 ## ✦ estatísticas
 
 <div align="center">
